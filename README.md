@@ -20,7 +20,7 @@ This is a solution to the [Four Card Feature Section challenge on Frontend Mento
 
 ## Overview
 
-- [Live Demo](https://calvin17.github.io/FM-social-proof-section/)
+- [Live Demo](https://calvin17.github.io/FM-four-card-feature-section/)
 
 ### The challenge
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-social-proof-section/)
+- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-four-card-feature-section/)
 
 ## My process
 
